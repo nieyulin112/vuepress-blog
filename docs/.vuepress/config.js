@@ -7,6 +7,7 @@ module.exports = {
     logo: '/avatar.png',  // 左上角logo
     nav:[ // 导航栏配置
       {text: '首页', link: '/' },
+      {text: '投资文章', link: 'https://www.yuque.com/invest/gi5ot6'},
       {text: '前端面试题', link: 'https://www.yuque.com/nieyulin/lunpyu'},
       {text: 'github', link: 'https://github.com/nieyulin112/'}
     ],
