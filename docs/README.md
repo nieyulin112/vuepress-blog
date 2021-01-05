@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /spider.png
+heroImage: /avatar.png
 heroText: 我的主页
-tagline: My homepage
+tagline: 我的主页
 actionText: 技术文档 →
 actionLink: https://www.yuque.com/nieyulin/lunpyu
 features:
