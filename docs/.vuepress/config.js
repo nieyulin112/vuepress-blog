@@ -1,5 +1,5 @@
 module.exports = {
-  title: '投资小达人',
+  title: '前端投资小达人',
   head: [ // 注入到当前页面的 HTML <head> 中的标签
     ['link', { rel: 'icon', href: '/avatar.png' }], // 增加一个自定义的 favicon(网页标签的图标)
   ],
