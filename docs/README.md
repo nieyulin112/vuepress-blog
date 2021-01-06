@@ -3,7 +3,7 @@ home: true
 heroImage: /avatar.png
 heroText: 我的主页
 tagline: 我的主页
-actionText: 技术文档 →
+actionText: 高频前端面试题 →
 actionLink: https://www.yuque.com/nieyulin/lunpyu
 features:
 - title: 简洁至上
